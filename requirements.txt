@@ -9,3 +9,6 @@ torchvision
 numpy
 matplotlib
 plotly
+cv2
+time
+PIL
