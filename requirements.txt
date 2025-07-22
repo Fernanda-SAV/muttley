@@ -9,4 +9,3 @@ torchvision
 numpy
 matplotlib
 plotly
-
