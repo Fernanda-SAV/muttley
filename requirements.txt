@@ -1,0 +1,11 @@
+folium
+streamlit
+streamlit-folium
+paho-mqtt
+ultralytics
+opencv-python
+torch
+torchvision
+numpy
+matplotlib
+plotly
